@@ -1,7 +1,6 @@
 # 👋 Olá! Me chamo Maria Eduarda Zabel
 
 🎓 Estudante de **Desenvolvimento de Sistemas** no **Centroweg**  
-💡 Apaixonada por tecnologia, programação e inovação  
 🚀 Buscando me tornar uma **Engenheira de Software** no futuro  
 
 ---
@@ -10,7 +9,7 @@
 
 - Tenho **17 anos**  
 - Faço aniversário em **15 de setembro**  
-- Sempre em busca de novos conhecimentos na área de **tecnologia**
+- Sempre em busca de novos conhecimentos
 
 ---
 
