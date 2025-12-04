@@ -13,14 +13,10 @@ Atualmente cursando **Desenvolvimento de Sistemas** no **Centroweg / SESI SENAI*
   <img alt="image" src="https://github.com/user-attachments/assets/793d40d6-0ccb-4f96-aaba-75704edf48e3" width="60px" />
   
 ---
-<br>
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudazabel&layout=compact&theme=city_lights&hide_border=true"/>
-</p>
-<br>
 
 ## Contato
 
-- maria_e_zabel@estudante.sesisenai.org.br
+-
+maria_e_zabel@estudante.sesisenai.org.br
 
 ---
