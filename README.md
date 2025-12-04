@@ -11,7 +11,7 @@ Atualmente cursando **Desenvolvimento de Sistemas** no **Centroweg / SESI SENAI*
   <img alt="image" src="https://github.com/user-attachments/assets/9802c755-691c-42cb-af41-9b70b3d5f22b" width="100px" />
   <img alt="image" src="https://github.com/user-attachments/assets/16f12430-9987-4cac-a28e-0dc579620e4b" width="100px" />
   <img alt="image" src="https://github.com/user-attachments/assets/b7fe8abc-24e9-469c-98a4-5e65b4eb42d4" width="100px" />
-  <img alt="image" src="https://github.com/user-attachments/assets/2bb5af36-a346-4919-8356-8eb0731fac7c" width="100px" />
+  <img alt="image" src="https://github.com/user-attachments/assets/793d40d6-0ccb-4f96-aaba-75704edf48e3" width="100px" />
 </p>
 ---
 markdown
