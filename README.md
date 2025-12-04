@@ -13,11 +13,12 @@ Atualmente cursando **Desenvolvimento de Sistemas** no **Centroweg / SESI SENAI*
   <img alt="image" src="https://github.com/user-attachments/assets/793d40d6-0ccb-4f96-aaba-75704edf48e3" width="90px" />
   
 ---
-markdown
-<p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Dudazabel&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)" alt="GitHub Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Dudazabel&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)" alt="Top Linguagens" />
+<br>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudazabel&layout=compact&theme=city_lights&hide_border=true"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dudazabel&theme=city_lights" alt="stats graph"/>
 </p>
+<br>
 
 ## Contato
 
