@@ -15,8 +15,8 @@ Atualmente cursando **Desenvolvimento de Sistemas** no **Centroweg / SESI SENAI*
 ---
 <br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudazabel&layout=compact&theme=city_lights&hide_border=true"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dudazabel&theme=city_lights" alt="stats graph"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudazabel&layout=compact&theme=city_lights&hide_border=true"/>
+  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dudazabel&theme=city_lights" alt="stats graph"/>
 </p>
 <br>
 
