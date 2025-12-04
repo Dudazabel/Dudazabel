@@ -1,68 +1,21 @@
-# 👋 Olá! Me chamo Maria Eduarda Zabel
 
-🎓 Estudante de **Desenvolvimento de Sistemas** no **Centroweg**  
-🚀 Buscando me tornar uma **Engenheira de Software** no futuro  
+🎓 Cursando **Desenvolvimento de Sistemas** no **Centroweg**  
 
 ---
 
-## 🎯 Sobre Mim
-
-- Tenho **17 anos**  
-- Faço aniversário em **15 de setembro**  
-- Sempre em busca de novos conhecimentos
-
----
-
-## 🧠 Conhecimentos Adquiridos no Curso
-
-- **Linguagens de Programação:**  
-  Java, HTML, CSS
-
-- **Desenvolvimento Front-End:**  
-  Criação de interfaces, usabilidade e estrutura visual
-
-- **Desenvolvimento Back-End:**  
-  Lógica de programação, integração com banco de dados
-
-- **Banco de Dados:**  
-  Modelagem, consultas e manipulação de dados usando SQL, com experiência prática no MySQL Workbench
-
-- **Informática Geral:**  
-  Conceitos básicos de informática
-
-- **Internet das Coisas (IoT):**  
-  Comunicação entre dispositivos e automação
-
-- **Sistemas Operacionais:**  
-  Uso de sistemas Windows e Linux
-
-- **Segurança de Dados:**  
-  Práticas de proteção da informação
-
-- **Técnicas de Programação:**  
-  Boas práticas, estruturação e organização de código
+<img width="1052" height="1052" alt="image" src="https://github.com/user-attachments/assets/c720542c-fc37-48b4-ae24-f86ad169a40f" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2d6380d9-38e2-4739-820d-cd5632e0a8d2" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e5a0c057-bc6c-4805-b41a-eea41a48130f" />
+<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/9802c755-691c-42cb-af41-9b70b3d5f22b" />
+<img width="596" height="251" alt="image" src="https://github.com/user-attachments/assets/16f12430-9987-4cac-a28e-0dc579620e4b" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b7fe8abc-24e9-469c-98a4-5e65b4eb42d4" />
+<img width="360" height="249" alt="image" src="https://github.com/user-attachments/assets/2bb5af36-a346-4919-8356-8eb0731fac7c" />
 
 ---
 
-## 🛠️ Ferramentas que Utilizo
 
-- **VS Code:** Para desenvolvimento de código e criação de interfaces  
-- **IntelliJ IDEA:** Para projetos com foco em Java  
-- **Eclipse:** Como ambiente de desenvolvimento estruturado em Java  
-- **Figma:** Para prototipação e design de interfaces  
+## Contato
+
+- maria_e_zabel@estudante.sesisenai.org.br
 
 ---
-
-## 🎓 Futuro na Carreira
-
-Pretendo seguir na área da tecnologia cursando **Engenharia de Software**, aprofundando meus conhecimentos em arquitetura de sistemas, desenvolvimento web e mobile, inteligência artificial e segurança da informação.
-
----
-
-## 📫 Contato
-
-- 💌 maria_e_zabel@estudante.sesisenai.org.br
-
----
-
-✨ Obrigada por visitar meu perfil! ✨
