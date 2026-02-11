@@ -1,22 +1,23 @@
+<div align="center">
 
-### 🎓 Estudante de Desenvolvimento de Sistemas
+## 🎓 Formação Acadêmica
 
-Atualmente cursando **Desenvolvimento de Sistemas** no **Centroweg / SESI SENAI**.
+**Cursando Técnico em Desenvolvimento de Sistemas**  
+CentroWeg  
+Duração: 2 anos  
 
----
-  <img alt="image" src="https://github.com/user-attachments/assets/c720542c-fc37-48b4-ae24-f86ad169a40f" width="60px" />
-  <img alt="image" src="https://github.com/user-attachments/assets/2d6380d9-38e2-4739-820d-cd5632e0a8d2" width="60px" />
-  <img alt="image" src="https://github.com/user-attachments/assets/3df42177-3aab-4e3d-b180-5e5d5144f145" width="60px" />
-  <img alt="image" src="https://github.com/user-attachments/assets/9802c755-691c-42cb-af41-9b70b3d5f22b" width="60px" />
-  <img alt="image" src="https://github.com/user-attachments/assets/69b2326d-fb3e-4879-819f-aaa136d8e8a8" width="60px" />
-  <img alt="image" src="https://github.com/user-attachments/assets/b7fe8abc-24e9-469c-98a4-5e65b4eb42d4" width="60px" />
-  <img alt="image" src="https://github.com/user-attachments/assets/793d40d6-0ccb-4f96-aaba-75704edf48e3" width="60px" />
-  
----
+<br>
 
-## Contato
+## Tecnologias e Ferramentas
 
--
-maria_e_zabel@estudante.sesisenai.org.br
+<img src="https://skillicons.dev/icons?i=js,html,css,arduino,docker,figma,git,java,kotlin,maven,mysql,py,postman,spring" />
 
----
+<br>
+
+## Estatísticas do GitHub
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudazabel&layout=compact&theme=city_lights&hide_border=true" />
+
+<br>
+
+</div>
