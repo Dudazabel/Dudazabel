@@ -2,7 +2,7 @@
 
 ## 🎓 Formação Acadêmica
 
-**Cursando Técnico em Desenvolvimento de Sistemas**  
+**Cursando Análise e Desenvolvimento de Sistemas**  
 CentroWeg  
 Duração: 2 anos  
 
