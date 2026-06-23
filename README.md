@@ -10,7 +10,7 @@ Duração: 2 anos
 
 ## Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,arduino,docker,figma,git,java,kotlin,maven,mysql,py,postman,spring" />
+<img src="https://skillicons.dev/icons?i=js,html,css,docker,figma,git,java,kotlin,maven,mysql,py,postman,spring" />
 
 <br>
 
